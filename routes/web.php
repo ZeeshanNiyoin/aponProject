@@ -9,6 +9,9 @@ use App\Http\Controllers\TerritoriesController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\ReportController;
 use App\Http\Controllers\ProductAjaxController;
+use Illuminate\Support\Facades\Auth;
+
+
 
 
 
